@@ -1,3 +1,10 @@
+## Live Demo
+
+Try the Power AI application here:
+
+https://power-ai-dbpdn9eyo5baeb4errgwu4.streamlit.app/
+
+
 Power AI
 
 Power AI is an Automatic AI Analyst built to simplify and accelerate the data analytics process. It is designed for situations where raw datasets are large, unstructured, or time-consuming to work with. Instead of relying on manual effort at every stage, Power AI automates data preparation, analysis, interpretation, and reporting, allowing users to move from raw data to actionable insights quickly and efficiently.
