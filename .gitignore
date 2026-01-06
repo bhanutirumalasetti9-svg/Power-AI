@@ -1,0 +1,7 @@
+# Ignore Office temp files
+~$*.pptx
+~$*.docx
+
+# Ignore reports output (optional but recommended)
+reports/*.pptx
+reports/*.docx

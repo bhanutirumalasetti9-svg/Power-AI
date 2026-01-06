@@ -1,0 +1,14 @@
+{
+    "total_records": 4,
+    "total_columns": 4,
+    "average_salary_by_department": {
+        "Finance": 55000.0,
+        "HR": 60000.0,
+        "IT": 50000.0,
+        "Unknown": 55000.0
+    },
+    "highest_salary": {
+        "department": "HR",
+        "value": 60000.0
+    }
+}
