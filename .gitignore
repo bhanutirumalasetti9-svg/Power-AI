@@ -1,7 +1,11 @@
-# Ignore Office temp files
-~$*.pptx
-~$*.docx
-
-# Ignore reports output (optional but recommended)
-reports/*.pptx
+# Ignore generated reports
 reports/*.docx
+reports/*.pptx
+reports/*.json
+
+# Ignore temp Office files
+~$*.docx
+~$*.pptx
+
+# Ignore Python cache
+__pycache__/
